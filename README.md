@@ -1,4 +1,4 @@
-# 🏠 California Housing Prediction API
+# 🏠 Housing Prediction API
 
 A FastAPI-powered machine learning API that predicts California house prices using a trained **Random Forest Regressor** model.  
 It supports both **JSON requests** and **CSV file uploads** for batch predictions.
