@@ -4,4 +4,3 @@ streamlit
 requests
 pandas
 joblib
-ok
